@@ -5,12 +5,11 @@ Lung sound is a non-invasive diagnostic tool for assessing several respiratory d
 
 # Cite as:
 @INPROCEEDINGS{10040031,\
-  author={Roy, Arka and Satija, Udit},
-  booktitle={2022 IEEE 19th India Council International Conference (INDICON)}, 
-  title={Automated Severity Detection Of Chronic Obstructive Pulmonary Disease Using Lung Sounds}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={1-6},
-  keywords={Sensitivity;Pulmonary diseases;Lung;Machine learning;Feature extraction;Signal resolution;Chronic Obstructive Pulmonary Disease (COPD);Severity Classification;Lung Sound;Variational Mode Decomposition (VMD)},
+  author={Roy, Arka and Satija, Udit},\
+  booktitle={2022 IEEE 19th India Council International Conference (INDICON)},\
+  title={Automated Severity Detection Of Chronic Obstructive Pulmonary Disease Using Lung Sounds},\ 
+  year={2022},\
+  volume={},\
+  number={},\
+  pages={1-6},\
   doi={10.1109/INDICON56171.2022.10040031}}
